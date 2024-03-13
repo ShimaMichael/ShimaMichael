@@ -1,4 +1,4 @@
-![header](header.gif)
+<!--<img src="header.gif" alt="header" height="300" width="100%">-->
 <h1 align="center">Hi 👋, I'm Michael Tavershima</h1>
 <h3 align="center">A passionate full-stack software engineer currently studying computer science at the University of Hertfordshire.</h3>
 <h3>I enjoy bringing my imagination to life.</h3>
