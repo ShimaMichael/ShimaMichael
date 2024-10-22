@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael Tavershima</h1>
 <h3 align="center">A passionate full-stack software engineer currently studying computer science at the university of Hertfordshire. I enjoy bring my imagination to life.</h3>
 
+![main](https://github.com/user-attachments/assets/ff34b3e6-266b-41a8-8dc9-09aa69d822f7)
+
 - 👨‍💻 All of my projects are available at [https://shimamichael.github.io/E-portfolio/](https://shimamichael.github.io/E-portfolio/)
 
 - 💬 Ask me about **JAVA, Python, JS, HTML/CSS, C**
